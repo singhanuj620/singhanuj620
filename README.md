@@ -46,7 +46,3 @@ I am a computer science graduate (2016 - 2020) who knows to build websites on th
 <a href="https://github.com/singhanuj620/instabot-uploadphoto">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=singhanuj620&repo=instabot-uploadphoto" />
 </a>
-
-
-### For more : 
-[Anuj Singh's Repositories](https://github.com/singhanuj620?tab=repositories)
