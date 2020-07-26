@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello everyone 👋</br> 
+# My name is Anuj Singh :blush: </br>
 
-<!--
-**singhanuj620/singhanuj620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./info.png" alt="Anuj Singh" width="600"/>
 
-Here are some ideas to get you started:
+I am a computer science graduate (2016 - 2020) who knows to build websites on the MERN stack. With "Data Structures with Python by NPTEL", i'm also a coder with 6 stars on the hackerrank coding platform. I'm having 10+ repositories on Github, in which one of the repo has acquired 19th AIR in tech hackathon in the full-stack category. Another interest of mine is to write automation scripts of social media to perform different tasks automatically, from web scrapper to automate like, comment bot of Instagram, there are many more. Apart from this tech world, I like to play video games and share memes. I would love to collaborate with you, connect with me, and let's see where it goes !!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## How to reach me :mailbox: :
+
+**Email** : singhanuj620@gmail.com
+
+[Portfolio](https://anujportfolio.herokuapp.com/)
+
+[Linkedin](https://www.linkedin.com/in/anuj-singh-007/)
+
+[Instagram](https://instagram.com/anujcodeop)
+
+[Twitter](https://twitter.com/singhanuj620)
+
+[Hackerrank](https://www.hackerrank.com/singhanuj)
