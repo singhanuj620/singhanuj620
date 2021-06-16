@@ -1,8 +1,11 @@
 ## Hello everyone 👋</br> 
+![](https://komarev.com/ghpvc/?username=singhanuj620&color=green)
+
+
 # My name is Anuj Singh :blush: </br>
 
 
-I am a computer science graduate (2016 - 2020) who knows to build websites on the MERN stack. Right now learning React native and big data tools.
+I am a sepecialist programmer working at Infosys Ltd. A computer science graduate (2016 - 2020) who knows to build websites on the MERN stack. Right now learning React native and big data tools.
 
 With "Data Structures with Python by NPTEL", i'm also a coder with 6 stars on the hackerrank coding platform. I'm having 15+ repositories on Github, in which one of the repo has acquired 19th AIR in tech hackathon in the full-stack category. Another interest of mine is to write automation scripts of social media to perform different tasks automatically, from web scrapper to automate like, comment bot of Instagram, there are many more. Apart from this tech world, I like to play video games and share memes. I would love to collaborate with you, connect with me, and let's see where it goes !!
 
@@ -25,12 +28,12 @@ With "Data Structures with Python by NPTEL", i'm also a coder with 6 stars on th
 
 [Hackerrank](https://www.hackerrank.com/singhanuj)
 
+[Leet Code](https://leetcode.com/singhanuj620/)
+
+
 
 # Some of the projects :
 
-<a href="https://github.com/singhanuj620/blinkbuff">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=singhanuj620&repo=blinkbuff" />
-</a>
 <a href="https://github.com/singhanuj620/git_firebase_api">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=singhanuj620&repo=git_firebase_api" />
 </a>
