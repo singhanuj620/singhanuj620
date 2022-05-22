@@ -13,7 +13,7 @@ With "Data Structures with Python by NPTEL", i'm also a coder with 6 stars on th
 I also write some tech blogs sometimes to make someone understand a concept in easy way. My Dev.to profile : [Blog](https://dev.to/singhanuj620)
 
 1. [React Redux | Learn the redux easily with project](https://dev.to/singhanuj620/react-redux-learn-the-redux-easily-with-project-aji)
-2. [JWT explained with project]((https://dev.to/singhanuj620/jwt-explained-with-project-37en)
+2. [JWT explained with project](https://dev.to/singhanuj620/jwt-explained-with-project-37en)
 3. [Mongoose "Populate()" in most simple way](https://dev.to/singhanuj620/mongoose-populate-in-most-simple-way-how-to-import-a-collection-into-another-schema-in-mongodb-4nnf)
 and many more ...
 
@@ -29,7 +29,7 @@ and many more ...
 
 [Linkedin](https://www.linkedin.com/in/anuj-singh-007/)
 
-[Resume] (https://drive.google.com/file/d/1D5gIny1gDAGtHNeNfOY5K0z0mwUTupQN/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1D5gIny1gDAGtHNeNfOY5K0z0mwUTupQN/view?usp=sharing)
 
 
 
