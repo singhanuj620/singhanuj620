@@ -15,6 +15,7 @@ I also write some tech blogs sometimes to make someone understand a concept in e
 1. [React Redux | Learn the redux easily with project](https://dev.to/singhanuj620/react-redux-learn-the-redux-easily-with-project-aji)
 2. [JWT explained with project](https://dev.to/singhanuj620/jwt-explained-with-project-37en)
 3. [Mongoose "Populate()" in most simple way](https://dev.to/singhanuj620/mongoose-populate-in-most-simple-way-how-to-import-a-collection-into-another-schema-in-mongodb-4nnf)
+
 and many more ...
 
 [![Anuj Singh github stats](https://github-readme-stats.vercel.app/api?username=singhanuj620&show_icons=true&theme=tokyonight)](https://github.com/singhanuj620)
@@ -31,21 +32,3 @@ and many more ...
 
 [Resume](https://drive.google.com/file/d/1D5gIny1gDAGtHNeNfOY5K0z0mwUTupQN/view?usp=sharing)
 
-
-
-# Some of the projects :
-
-<a href="https://github.com/singhanuj620/git_firebase_api">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=singhanuj620&repo=git_firebase_api" />
-</a>
-</br>
-<a href="https://github.com/singhanuj620/freecodecamp_scrap">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=singhanuj620&repo=freecodecamp_scrap" />
-</a>
-</br>
-<a href="https://github.com/singhanuj620/likeComment_instagramBot">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=singhanuj620&repo=likeComment_instagramBot" />
-</a>
-<a href="https://github.com/singhanuj620/instabot-uploadphoto">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=singhanuj620&repo=instabot-uploadphoto" />
-</a>
