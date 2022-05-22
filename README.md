@@ -20,7 +20,6 @@ and many more ...
 
 [![Anuj Singh github stats](https://github-readme-stats.vercel.app/api?username=singhanuj620&show_icons=true&theme=tokyonight)](https://github.com/singhanuj620)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhanuj620)](https://github.com/singhanuj620)
 
 ## How to reach me :mailbox: :
 
