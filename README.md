@@ -23,10 +23,10 @@ and many more ...
 
 ## How to reach me :mailbox: :
 
-**Email** : singhanuj620@gmail.com
+**Email** : singhanuj620@gmail.com **Phone** : +91-8423522211
 
-[Portfolio](https://anujportfolio.herokuapp.com/)
+[Portfolio](https://anujportfolio.herokuapp.com/) [Linkedin](https://www.linkedin.com/in/anuj-singh-007/)
 
-[Linkedin](https://www.linkedin.com/in/anuj-singh-007/)
-
+💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥
 [Resume](https://drive.google.com/file/d/1D5gIny1gDAGtHNeNfOY5K0z0mwUTupQN/view?usp=sharing)
+💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥
