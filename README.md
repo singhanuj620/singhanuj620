@@ -10,6 +10,7 @@ With "Data Structures with Python by NPTEL", I'm also a coder with 6 stars on th
 
 Apart from this tech world, I like to play video games and share memes. I would love to collaborate with you, connect with me, and let's see where it goes !!
 
+![](./blog.png)
 I also write some tech blogs sometimes to make someone understand a concept in easy way. My Dev.to profile : [Blog](https://dev.to/singhanuj620)
 
 1. [React Redux | Learn the redux easily with project](https://dev.to/singhanuj620/react-redux-learn-the-redux-easily-with-project-aji)
