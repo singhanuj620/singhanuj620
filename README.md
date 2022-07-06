@@ -1,14 +1,14 @@
-## Hello everyone 👋</br> 
+## Hello everyone 👋</br>
+
 ![](https://komarev.com/ghpvc/?username=singhanuj620&color=green)
 
-
-# My name is Anuj Singh :blush: </br>
-
+![](./github_banner.png)
 
 I am a ReactJS industry professional with 1+ year of experience. Having proficient knowledge in javascript and python, I'm comfortable with MERN stack web technologies. I've built various projects and am still eager to learn and grow more.
 
+With "Data Structures with Python by NPTEL", I'm also a coder with 6 stars on the hackerrank coding platform. I'm having 15+ repositories on Github, in which one of the repo has acquired 19th AIR in tech hackathon in the full-stack category. Another interest of mine is to write automation scripts of social media to perform different tasks automatically, from web scrapper to automate like, comment bot of Instagram, there are many more.
 
-With "Data Structures with Python by NPTEL", i'm also a coder with 6 stars on the hackerrank coding platform. I'm having 15+ repositories on Github, in which one of the repo has acquired 19th AIR in tech hackathon in the full-stack category. Another interest of mine is to write automation scripts of social media to perform different tasks automatically, from web scrapper to automate like, comment bot of Instagram, there are many more. Apart from this tech world, I like to play video games and share memes. I would love to collaborate with you, connect with me, and let's see where it goes !!
+Apart from this tech world, I like to play video games and share memes. I would love to collaborate with you, connect with me, and let's see where it goes !!
 
 I also write some tech blogs sometimes to make someone understand a concept in easy way. My Dev.to profile : [Blog](https://dev.to/singhanuj620)
 
@@ -20,7 +20,6 @@ and many more ...
 
 [![Anuj Singh github stats](https://github-readme-stats.vercel.app/api?username=singhanuj620&show_icons=true&theme=tokyonight)](https://github.com/singhanuj620)
 
-
 ## How to reach me :mailbox: :
 
 **Email** : singhanuj620@gmail.com
@@ -30,4 +29,3 @@ and many more ...
 [Linkedin](https://www.linkedin.com/in/anuj-singh-007/)
 
 [Resume](https://drive.google.com/file/d/1D5gIny1gDAGtHNeNfOY5K0z0mwUTupQN/view?usp=sharing)
-
