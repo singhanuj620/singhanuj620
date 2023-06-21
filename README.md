@@ -4,9 +4,8 @@
 
 ![](./github_banner.png)
 
-I am a ReactJS industry professional with 1+ year of experience. Having proficient knowledge in javascript and python, I'm comfortable with MERN stack web technologies. I've built various projects and am still eager to learn and grow more.
-
-With "Data Structures with Python by NPTEL", I'm also a coder with 6 stars on the hackerrank coding platform. I'm having 15+ repositories on Github, in which one of the repo has acquired 19th AIR in tech hackathon in the full-stack category. Another interest of mine is to write automation scripts of social media to perform different tasks automatically, from web scrapper to automate like, comment bot of Instagram, there are many more.
+Experienced software engineer with 2.7 years of professional expertise in frontend web development, specializing in React JS. Proficient in utilizing cutting-edge React concepts and techniques, including Redux for state management and Jest for unit testing. Skilled in developing scalable and maintainable code structures, ensuring optimal performance and seamless user experiences. 
+Demonstrated ability to collaborate effectively in cross-functional teams, adept at leveraging React components, hooks, and state management libraries like Redux to build robust applications. Experienced in writing comprehensive unit tests using Jest to ensure code quality and reliability. Committed to staying updated with the latest trends and best practices in React development.
 
 Apart from this tech world, I like to play video games and share memes. I would love to collaborate with you, connect with me, and let's see where it goes !!
 
@@ -24,12 +23,11 @@ and many more ...
 ## How to reach me :mailbox: :
 
 ### **Email** : singhanuj620@gmail.com
-### **Phone** : +91-8423522211
 
-## [Portfolio](https://anujportfolio.herokuapp.com/)       [Linkedin](https://www.linkedin.com/in/anuj-singh-007/)
+## [Portfolio](https://astounding-alfajores-bc2d8d.netlify.app/)       [Linkedin](https://www.linkedin.com/in/anuj-singh-007/)
 
 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥
 
-# [Resume](https://drive.google.com/file/d/1D5gIny1gDAGtHNeNfOY5K0z0mwUTupQN/view?usp=sharing)
+# [Resume](https://drive.google.com/file/d/1IJs3MkQlTwzyf-EdcytPNLVDSeO91X-o/view?usp=share_link)
 
 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥
