@@ -18,16 +18,17 @@ I also write some tech blogs sometimes to make someone understand a concept in e
 
 and many more ...
 
-[![Anuj Singh github stats](https://github-readme-stats.vercel.app/api?username=singhanuj620&show_icons=true&theme=tokyonight)](https://github.com/singhanuj620)
 
 ## How to reach me :mailbox: :
 
 ### **Email** : singhanuj620@gmail.com
 
-## [Portfolio](https://astounding-alfajores-bc2d8d.netlify.app/)       [Linkedin](https://www.linkedin.com/in/anuj-singh-007/)
+### **Portfolio** : [Click here](https://astounding-alfajores-bc2d8d.netlify.app/)       
+
+### **Linkedin** [Click here](https://www.linkedin.com/in/anuj-singh-007/)
 
 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥
 
-# [Resume](https://drive.google.com/file/d/1IJs3MkQlTwzyf-EdcytPNLVDSeO91X-o/view?usp=share_link)
+## **Resume** [Click here](https://drive.google.com/file/d/1IJs3MkQlTwzyf-EdcytPNLVDSeO91X-o/view?usp=share_link)
 
 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥
