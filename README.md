@@ -4,7 +4,7 @@
 
 ![](./github_banner.png)
 
-Experienced software engineer with 2.7 years of professional expertise in frontend web development, specializing in React JS. Proficient in utilizing cutting-edge React concepts and techniques, including Redux for state management and Jest for unit testing. Skilled in developing scalable and maintainable code structures, ensuring optimal performance and seamless user experiences. 
+Experienced software engineer with 3.5 years of professional expertise in frontend web development, specializing in React JS. Proficient in utilizing cutting-edge React concepts and techniques, including Redux for state management and Jest for unit testing. Skilled in developing scalable and maintainable code structures, ensuring optimal performance and seamless user experiences. 
 Demonstrated ability to collaborate effectively in cross-functional teams, adept at leveraging React components, hooks, and state management libraries like Redux to build robust applications. Experienced in writing comprehensive unit tests using Jest to ensure code quality and reliability. Committed to staying updated with the latest trends and best practices in React development.
 
 [![An image of @singhanuj620's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/singhanuj620)](https://holopin.io/@singhanuj620)
