@@ -25,7 +25,7 @@ and many more ...
 
 ### **Email** : singhanuj620@gmail.com
 
-### **Portfolio** : [Click here](https://astounding-alfajores-bc2d8d.netlify.app/)       
+### **Portfolio** : [Click here](https://anujsingh.net/)       
 
 ### **Linkedin** [Click here](https://www.linkedin.com/in/anuj-singh-007/)
 
